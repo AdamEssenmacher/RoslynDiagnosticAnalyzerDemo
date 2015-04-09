@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyncTestAnalyzer", "AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.csproj", "{D6476242-FD1C-420A-97F5-D0354056C214}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E013EBBF-0B4E-4BDD-8E33-E1E645CE00B8}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyncTestAnalyzer.Test", "AyncTestAnalyzer\AyncTestAnalyzer.Test\AyncTestAnalyzer.Test.csproj", "{0A03BC7B-1C93-4C0B-917D-1AFFE5C5B9FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyncTestAnalyzer.Vsix", "AyncTestAnalyzer\AyncTestAnalyzer.Vsix\AyncTestAnalyzer.Vsix.csproj", "{80D4AAD8-9364-40AE-9DAB-D7CE45325361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6476242-FD1C-420A-97F5-D0354056C214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6476242-FD1C-420A-97F5-D0354056C214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6476242-FD1C-420A-97F5-D0354056C214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6476242-FD1C-420A-97F5-D0354056C214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A03BC7B-1C93-4C0B-917D-1AFFE5C5B9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A03BC7B-1C93-4C0B-917D-1AFFE5C5B9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A03BC7B-1C93-4C0B-917D-1AFFE5C5B9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A03BC7B-1C93-4C0B-917D-1AFFE5C5B9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D4AAD8-9364-40AE-9DAB-D7CE45325361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D4AAD8-9364-40AE-9DAB-D7CE45325361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D4AAD8-9364-40AE-9DAB-D7CE45325361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D4AAD8-9364-40AE-9DAB-D7CE45325361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

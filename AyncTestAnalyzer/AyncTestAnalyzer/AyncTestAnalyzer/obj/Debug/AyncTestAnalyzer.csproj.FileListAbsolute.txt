@@ -1,0 +1,10 @@
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\bin\Debug\Diagnostic.nuspec
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\bin\Debug\tools\install.ps1
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\bin\Debug\tools\uninstall.ps1
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\bin\Debug\AyncTestAnalyzer.dll
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\bin\Debug\AyncTestAnalyzer.pdb
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\obj\Debug\AyncTestAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\obj\Debug\AyncTestAnalyzer.Resources.resources
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\obj\Debug\AyncTestAnalyzer.csproj.GenerateResource.Cache
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\obj\Debug\AyncTestAnalyzer.dll
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer\obj\Debug\AyncTestAnalyzer.pdb

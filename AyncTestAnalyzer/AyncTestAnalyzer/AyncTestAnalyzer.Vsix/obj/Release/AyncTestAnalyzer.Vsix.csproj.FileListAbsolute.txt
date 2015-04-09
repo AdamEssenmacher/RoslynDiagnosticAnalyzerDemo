@@ -1,0 +1,11 @@
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Release\Diagnostic.nuspec
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Release\tools\install.ps1
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Release\tools\uninstall.ps1
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Release\AyncTestAnalyzer.vsix
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Release\extension.vsixmanifest
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Release\AyncTestAnalyzer.dll
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Release\AyncTestAnalyzer.pdb
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Release\AyncTestAnalyzer.Vsix.csprojResolveAssemblyReference.cache
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Release\AyncTestAnalyzer.dll
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Release\AyncTestAnalyzer.pdb
+C:\Users\aessenmacher\Documents\Visual Studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Release\extension.vsixmanifest

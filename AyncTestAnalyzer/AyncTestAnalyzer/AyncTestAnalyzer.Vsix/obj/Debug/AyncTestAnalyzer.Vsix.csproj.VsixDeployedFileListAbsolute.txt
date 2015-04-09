@@ -1,0 +1,6 @@
+C:\Users\aessenmacher\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\aessenmacher\AyncTestAnalyzer.Vsix\1.0\\AyncTestAnalyzer.dll
+C:\Users\aessenmacher\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\aessenmacher\AyncTestAnalyzer.Vsix\1.0\\extension.vsixmanifest
+C:\Users\aessenmacher\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\aessenmacher\AyncTestAnalyzer.Vsix\1.0\\Diagnostic.nuspec
+C:\Users\aessenmacher\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\aessenmacher\AyncTestAnalyzer.Vsix\1.0\\tools\install.ps1
+C:\Users\aessenmacher\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\aessenmacher\AyncTestAnalyzer.Vsix\1.0\\tools\uninstall.ps1
+C:\Users\aessenmacher\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\aessenmacher\AyncTestAnalyzer.Vsix\1.0\\AyncTestAnalyzer.pdb

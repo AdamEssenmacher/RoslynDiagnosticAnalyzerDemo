@@ -1,0 +1,11 @@
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Debug\Diagnostic.nuspec
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Debug\tools\install.ps1
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Debug\tools\uninstall.ps1
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Debug\AyncTestAnalyzer.vsix
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Debug\extension.vsixmanifest
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Debug\AyncTestAnalyzer.dll
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\bin\Debug\AyncTestAnalyzer.pdb
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Debug\AyncTestAnalyzer.Vsix.csprojResolveAssemblyReference.cache
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Debug\AyncTestAnalyzer.dll
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Debug\AyncTestAnalyzer.pdb
+c:\users\aessenmacher\documents\visual studio 2015\Projects\AyncTestAnalyzer\AyncTestAnalyzer\AyncTestAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
